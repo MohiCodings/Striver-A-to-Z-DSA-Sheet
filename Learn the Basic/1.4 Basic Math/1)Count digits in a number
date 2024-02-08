@@ -1,4 +1,4 @@
-Problem statement
+*************Problem statement***********************
 You are given a number ’n’.
 Find the number of digits of ‘n’ that evenly divide ‘n’.
 
@@ -14,7 +14,7 @@ Explanation:
 Note:
 You don’t need to print anything. Just implement the given function.
 
-
+**************************************************
 
 int countDigits(int n){
 	// Write your code here.	
