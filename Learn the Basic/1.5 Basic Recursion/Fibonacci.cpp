@@ -1,4 +1,4 @@
-Problem statement
+*******************************Problem statement**************************************
 Given an integer ‘n’, return first n Fibonacci numbers using a generator function.
 
 
@@ -12,7 +12,7 @@ Explanation: First 5 Fibonacci numbers are: 0, 1, 1, 2, and 3.
 Note:
 You don't need to print anything. Just implement the given function.
 
-
+******************************************************************************************
 
   void solve(int a, int b, int c, int n, vector<int> &ans){
     if(n == 0) return; 
