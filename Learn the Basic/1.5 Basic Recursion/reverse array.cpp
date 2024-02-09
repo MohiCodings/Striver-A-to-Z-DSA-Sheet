@@ -1,11 +1,7 @@
-Problem statement
+*******************Problem statement**************************
 Given an array 'arr' of size 'n'.
 
-
-
 Return an array with all the elements placed in reverse order.
-
-
 
 Note:
 You don’t need to print anything. Just implement the given function.
@@ -18,7 +14,7 @@ Explanation: After reversing the array, it looks like this [3, 6, 1, 8, 7, 5].
 
 
 
-
+*************************************************************************
 
 
 
