@@ -1,5 +1,5 @@
 
-Problem statement
+****************************Problem statement***************************
 Data type refers to the type of value a variable has and the way the computer interprets it.
 
 
@@ -15,6 +15,7 @@ Character: 1 byte
 
 You’re given a data type. Print its size in bytes.
 
+************************************************************************
 
 Solution:
 
