@@ -1,7 +1,5 @@
-Problem statement
+*******************************Problem statement*********************************
 You are given an integer ‘n’.
-
-
 
 Your task is to return an array containing integers from ‘n’ to ‘1’ (in decreasing order) without using loops.
 
@@ -46,7 +44,7 @@ Constraints:
 Time Limit: 1-sec
 
 
-
+*****************************************************************************************
 
 
   vector<int> printNos(int x) {
