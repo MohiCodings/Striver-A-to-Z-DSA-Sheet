@@ -1,4 +1,4 @@
-Problem statement
+******************************************Problem statement****************************
 Aryan and his friends are very fond of patterns. For a given integer ‘N’, they want to make the Reverse Letter Triangle.
 
 You must print a matrix corresponding to the given Reverse Letter Triangle.
@@ -12,6 +12,10 @@ A B C
 A B
 A
 
+
+
+*****************************************************************************************
+    
 ## Solution
 
 void nLetterTriangle(int n) {
