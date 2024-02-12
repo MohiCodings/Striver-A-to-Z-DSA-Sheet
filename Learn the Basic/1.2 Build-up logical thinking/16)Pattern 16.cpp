@@ -1,4 +1,4 @@
-Problem statement
+**********************************Problem statement*****************************************
 Sam is curious about Alpha-Ramp, so he decided to create Alpha-Ramp of different sizes.
 
 An Alpha-Ramp is represented by a triangle, where alphabets are filled from the top in order.
@@ -13,6 +13,8 @@ A
 B B
 C C C
 
+
+*******************************************************************************************
 
 ## Solution
 
