@@ -1,4 +1,4 @@
-Problem statement
+***********************************Problem statement*************************************
 Sam is making a Triangular painting for a maths project.
 
 An N-dimensional Triangle is represented by the lower triangle of the pattern filled with integers representing the row number.
@@ -13,6 +13,9 @@ Output:
 2 2 
 3 3 3
 
+****************************************************************************************
+
+	
   ## Solution
 
   void triangle(int n) {
