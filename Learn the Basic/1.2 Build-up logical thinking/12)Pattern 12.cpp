@@ -1,4 +1,4 @@
-Problem statement
+********************************Problem statement******************************************
 Aryan and his friends are very fond of the pattern. They want to make the Reverse N-Number Crown for a given integer' N'.
 
 Given 'N', print the corresponding pattern.
@@ -13,6 +13,9 @@ Output:
 1 2 3 3 2 1
 
 
+
+**********************************************************************************************
+  
   ## Solution
 
   void numberCrown(int n) {
