@@ -1,4 +1,4 @@
-Problem statement
+******************************Problem statement************************************
 Aryan and his friends are very fond of patterns. For a given integer ‘N’, they want to make the Increasing Number Triangle.
 
 Example:
@@ -11,6 +11,8 @@ Output:
 4 5 6
 
 
+  *******************************************************************************
+  
   ## Solution
 
   void nNumberTriangle(int n) {
