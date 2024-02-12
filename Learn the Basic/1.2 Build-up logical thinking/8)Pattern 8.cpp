@@ -1,4 +1,4 @@
-Problem statement
+***************************Problem statement********************************
 Ninja was very fond of patterns. For a given integer ‘N’, he wants to make the Reverse N-Star Triangle.
 
 Example:
@@ -10,7 +10,9 @@ Output:
  ***
   *
 
+****************************************************************************
 
+ 
   ## Solution 
   void nStarTriangle(int n) {
     // Write your code here.
