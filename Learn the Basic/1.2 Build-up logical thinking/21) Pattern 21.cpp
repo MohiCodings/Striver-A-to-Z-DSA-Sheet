@@ -1,4 +1,4 @@
-Problem statement
+**************************Problem statement******************************
 Ninja has been given a task to print the required star pattern and he asked your help for the same.
 
 You must return an ‘N’*’N’ matrix corresponding to the given star pattern.
@@ -13,7 +13,7 @@ Output:
 *  *
 ****
 
-
+*****************************************************************************
 
   ## Solution
 
