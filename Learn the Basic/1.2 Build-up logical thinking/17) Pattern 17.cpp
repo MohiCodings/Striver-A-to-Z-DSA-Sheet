@@ -1,4 +1,4 @@
-Problem statement
+*********************************************Problem statement*********************************************
 Sam is curious about Alpha-Hills, so he decided to create Alpha-Hills of different sizes.
 
 An Alpha-hill is represented by a triangle, where alphabets are filled in palindromic order.
@@ -13,6 +13,9 @@ Output:
   A B A
 A B C B A
 
+
+
+********************************************************************************************************
 
 ## Solution
 
