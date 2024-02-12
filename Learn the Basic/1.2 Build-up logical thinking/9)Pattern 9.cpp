@@ -1,4 +1,4 @@
-Problem statement
+******************************************Problem statement************************************8
 Ninja was very fond of patterns. For a given integer ‘N’, he wants to make the N-Star Diamond.
 
 Example:
@@ -26,7 +26,7 @@ Sample Output 1:
  ***
   *    
 
-
+******************************************************************************************
 
 
     ## Solution 
