@@ -1,4 +1,4 @@
-Problem statement
+**********************************Problem statement*********************************
 Aryan and his friends are very fond of patterns. For a given integer ‘N’, they want to make the Increasing Letter Triangle.
 
 Example:
@@ -10,6 +10,8 @@ A
 A B
 A B C
 
+
+************************************************************************************
 
 ## Solution
 
