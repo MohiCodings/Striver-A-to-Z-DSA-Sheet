@@ -7,7 +7,7 @@ of the container.
 and, end is an iterator pointing to just after the 
 last element of the container.
 
-
+**********************************************************************************************
   ## Using Array
 
   #include<iostream>
